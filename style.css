@@ -1,1 +1,58 @@
 
+.cim{
+
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.casual{
+
+    background-color: #ECF87F;
+    border: 5px double rgb(4, 54, 4);
+
+}
+
+body{
+    background-image: url(./euro-1353420.jpg);
+    color: rgb(18, 32, 0);
+    width: 1000px;
+    font-weight: bold;
+    font-size: 15px;
+    margin:auto;
+}
+
+.nonos{
+
+    border: 5px double #344611;
+    width: 500px;
+    position: relative;
+    left: 510px;
+    top: -600px;
+    background-color: #ECF87F;
+
+}
+
+.yeahs{
+    border: 5px double #37500a;
+    width: 500px;
+    background-color: #ECF87F;
+    position: relative;
+    top: 25px;
+
+}
+
+.pictures{
+
+    position: relative;
+    top: -500px;
+    max-height: 200px;
+
+}
+
+.smalltext{
+
+    font-size: 20px;
+    font-weight: bolder;
+
+}
